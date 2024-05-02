@@ -1,4 +1,5 @@
 ### 欢迎，欢迎H₂
+### Welcome, welcome H₂
 ### 2 H₂ + HAuCl₄ → Au + 2 HCl + H₂O
 
 <!--
