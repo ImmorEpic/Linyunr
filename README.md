@@ -2,8 +2,6 @@
 ### Welcome, welcome H₂
 ### 2 H₂ + HAuCl₄ → Au + 2 HCl + H₂O
 
-<!--
-**Linyunr/Linyunr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 这家伙是谁？急急现形！
 - Who is this guy?Aparecium!
