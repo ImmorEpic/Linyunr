@@ -1,6 +1,5 @@
-### 欢迎，欢迎H₂，本该到府上拜访，这样就不能用主动的方式迎接你了。
-### 2 H₂ + HAuCl₄ → Au + 2 HCl + H₂O
-
+### 欢迎，欢迎，本该到府上拜访，这样就不能用主动的方式迎接你了。
+### Everyone will be IMMOR.
 
 - 这家伙是谁？急急现形！
 - Who is this guy?Aparecium!
